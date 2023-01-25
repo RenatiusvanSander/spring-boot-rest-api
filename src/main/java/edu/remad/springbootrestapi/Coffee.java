@@ -2,6 +2,9 @@ package edu.remad.springbootrestapi;
 
 import java.util.UUID;
 
+/**
+ * Coffee for demonstration
+ */
 public class Coffee {
 
   /**
